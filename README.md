@@ -96,6 +96,9 @@ The modules is designed to:
     
 
 ## Future-Development
+1) To solve live streaming dataset and process with GCP Data Proc Clusters.
+2) To optimize more on spark configuration.
+3) To solve end to end data problem with GCP.
 
 
 
