@@ -13,7 +13,7 @@ This project demonstrates the exploration of a real world E-Commerce dataset usi
 This prohect modules consists of Data Ingestion & Exploration, Data Cleaning & Transformation, Data Integration & aggregation, Performance Optimization & Data Serving Layer.
 
 ## Architecture
-
+![architecture.jpeg](architecture.JPG)
 1. **E-Commerce Dataset by OLIST**: Source of the data.
 2. **GCP Data Proc Cluster**: To deploy spark cluster.
 3. **HDFS**: HDFS File system to store the data instead of local storage.
